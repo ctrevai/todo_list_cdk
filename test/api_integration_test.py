@@ -1,7 +1,7 @@
 from uuid import uuid4
 import requests
 
-ENDPOINT = 'https://2z070rxi4d.execute-api.us-east-1.amazonaws.com'
+ENDPOINT = ''
 
 
 def test_can_create_and_get_task():
